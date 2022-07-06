@@ -1,0 +1,30 @@
+---
+title: "How to use the testPgdownR package"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{How to use the testPgdownR package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(testPgdownR)
+```
+
+The package contains the following function:  
+
+- `super_func()`
+
+This vignette explains how to use this very complex function.
+
+```{r}
+super_func(x = 2:9, y = 3)
+```
+
