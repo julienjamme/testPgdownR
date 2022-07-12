@@ -18,13 +18,7 @@ knitr::opts_chunk$set(
 library(testPgdownR)
 ```
 
-The package contains the following function:  
-
-- `super_func()`
-
-This vignette explains how to use this very complex function.
-
 ```{r}
-super_func(x = 2:9, y = 3)
+super_func(2,3)
 ```
 

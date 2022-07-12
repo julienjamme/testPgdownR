@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/404.html</loc>
   </url>
   <url>
-    <loc>/LICENSE-text.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>/articles/index.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/articles/index.html</loc>
   </url>
   <url>
-    <loc>/articles/vign_01.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/articles/vign_01.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/index.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/super_func.html</loc>
+    <loc>https://julienjamme.github.io/testPgdownR/reference/super_func.html</loc>
   </url>
 </urlset>

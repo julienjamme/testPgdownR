@@ -13,4 +13,3 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
-URL: https://julienjamme.github.io/testPgdownR/

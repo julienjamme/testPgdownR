@@ -2,7 +2,7 @@
 % Please edit documentation in R/super_func.R
 \name{super_func}
 \alias{super_func}
-\title{adds to vectors}
+\title{sum between two vectors}
 \usage{
 super_func(x, y)
 }
@@ -15,7 +15,7 @@ super_func(x, y)
 numeric vector
 }
 \description{
-adds to vectors
+sum between two vectors
 }
 \examples{
 super_func(2:5, 6:9)

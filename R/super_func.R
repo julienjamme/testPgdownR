@@ -1,4 +1,4 @@
-#' adds to vectors
+#' sum between two vectors
 #' @param x numeric vector
 #' @param y numeric vector
 #' @return numeric vector
