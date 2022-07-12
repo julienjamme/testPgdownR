@@ -1,4 +1,5 @@
 url: https://julienjamme.github.io/testPgdownR/
 template:
   bootstrap: 5
+  bootswatch: cerulean
 

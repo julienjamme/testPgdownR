@@ -25,3 +25,11 @@ gitcreds::gitcreds_list_helpers()
 gitcreds::gitcreds_get(url = "https://github.com/julienjamme/testPgdownR.git")
 gitcreds::gitcreds_set(url = "https://github.com/julienjamme/testPgdownR.git") #pour enregistrer le personal access token
 usethis::use_pkgdown_github_pages() #
+
+
+library(credentials)
+credentials::set_github_pat()
+credentials::git_credential_ask('https://github.com')
+credentials::credential_helper_get()
+usethis::use_pkgdown_github_pages()
+pkgdown::build_home_index()
