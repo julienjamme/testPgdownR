@@ -1,0 +1,10 @@
+pandoc: 2.7.3
+pkgdown: 2.0.5
+pkgdown_sha: ~
+articles:
+  vign_01: vign_01.html
+last_built: 2022-07-12T14:29Z
+urls:
+  reference: https://julienjamme.github.io/testPgdownR/reference
+  article: https://julienjamme.github.io/testPgdownR/articles
+
